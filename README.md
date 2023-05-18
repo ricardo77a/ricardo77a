@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-✅ En este momento estoy trabajando en BCN School. 👨‍💻 ¡Siempre aprendiendo y creciendo en mi carrera!<br>✅ Soy un desarrollador freelance que siempre está en busca de nuevos desafíos. 💼 ¡Hablemos de tus proyectos!<br>✅ Estoy profundizando cada vez más en Frontend y me encanta. 🔍 ¡Diseñando experiencias de usuario increíbles!<br>✅ ¡Pregúntame lo que quieras sobre Laravel! Siempre estoy feliz de ayudar. 👨‍💻💬<br>✅ En mi tiempo libre, estoy buscando nuevos proyectos emocionantes para trabajar. 🔍🕵️‍♂️ ¡Hablemos!
+✅ En este momento estoy trabajando en [BCN School](https://bcnschool.com/). 👨‍💻 ¡Siempre aprendiendo y creciendo en mi carrera!<br>✅ Soy un desarrollador freelance que siempre está en busca de nuevos desafíos. 💼 ¡Hablemos de tus proyectos!<br>✅ Estoy profundizando cada vez más en Frontend y me encanta. 🔍 ¡Diseñando experiencias de usuario increíbles!<br>✅ ¡Pregúntame lo que quieras sobre Laravel! Siempre estoy feliz de ayudar. 👨‍💻💬<br>✅ En mi tiempo libre, estoy buscando nuevos proyectos emocionantes para trabajar. 🔍🕵️‍♂️ ¡Hablemos!
 
 
 ## 🌐 Socials:
